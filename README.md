@@ -9,3 +9,5 @@ Manipulate the DOM, use local storage, mke Ajax calls, etc using Python in the b
 - Load a file
 - Style/Rotate
 - Local Storage
+
+http://projects.michaelogrady.net/training-and-development/brython/index.html
