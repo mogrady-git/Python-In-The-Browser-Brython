@@ -11,4 +11,7 @@ Manipulate the DOM, use local storage, mke Ajax calls, etc using Python in the b
 - [x] Style/Rotate
 - [x] Local Storage
 
-http://projects.michaelogrady.net/training-and-development/brython/index.html
+<h1 align="center">
+<img src="images/python-in-the-browser_psd.png"  height="auto" width="100%"> 
+<img src="images/python-in-the-browser.png"  height="auto" width="100%"> 
+</h1>
